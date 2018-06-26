@@ -1,15 +1,32 @@
-{  
-   "firstname":"Daniel",
-   "lastname":"Rosie",
-   "address":{  
-      "stateOrRegion":"ABCD",
-      "city":"LOS ANGELS",
-      "countryCode":"US",
-      "postalCode":"91524",
-      "addressLine1":"Haddows Lane",
-      "addressLine2":"",
-      "addressLine3":"",
-      "districtOrCounty":""
+[  
+   {  
+      "firstname":"Roger",
+      "lastname":"Federer",
+      "address":{  
+         "stateOrRegion":"ABCD",
+         "city":"LOS ANGELES",
+         "countryCode":"US",
+         "postalCode":"91524",
+         "addressLine1":"Haddows Lane",
+         "addressLine2":"",
+         "addressLine3":"",
+         "districtOrCounty":""
+      },
+      "providerType":"Physician"
    },
-   "providerType":"Physician"
-}
+   {  
+      "firstname":"Mary",
+      "lastname":"Johnson",
+      "address":{  
+         "stateOrRegion":"EFGH",
+         "city":"NEW YORK CITY",
+         "countryCode":"US",
+         "postalCode":"93564",
+         "addressLine1":"Port City Lane",
+         "addressLine2":"",
+         "addressLine3":"",
+         "districtOrCounty":""
+      },
+      "providerType":"Physician"
+   }
+]
