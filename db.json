@@ -1,8 +1,8 @@
 {  
    "providerDetails":[  
       {  
-         "firstname":"Roger",
-         "lastname":"Federer",
+         "firstName":"Roger",
+         "lastName":"Federer",
          "address":{  
             "stateOrRegion":"ABCD",
             "city":"LOS ANGELES",
@@ -16,8 +16,8 @@
          "providerType":"Physician"
       },
       {  
-         "firstname":"Mary",
-         "lastname":"Johnson",
+         "firstName":"Mary",
+         "lastName":"Johnson",
          "address":{  
             "stateOrRegion":"EFGH",
             "city":"NEW YORK CITY",
