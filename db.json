@@ -1,4 +1,4 @@
-[{
+{
     "profile": {
         "firstname": "Daniel",
         "lastname": "Rosie",
@@ -6,4 +6,4 @@
                 "addressLine2":"", "addressLine3":"", "districtOrCounty":""},
         "providerType":"Physician",
     }
-}]
+}
