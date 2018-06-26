@@ -4,6 +4,6 @@
     "lastname": "Rosie",
     "address":{ "stateOrRegion": "ABCD", "city": "LOS ANGELS" , "countryCode" : "US", "postalCode":"91524", "addressLine1":"Haddows Lane",
                 "addressLine2":"", "addressLine3":"", "districtOrCounty":""},
-    "providerType":"Physician",
+    "providerType":"Physician"
   }
 }
